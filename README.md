@@ -17,7 +17,6 @@ This project focuses on identifying and testing common API security vulnerabilit
 - Postman
 - Burp Suite Community Edition
 - VAmPI – Vulnerable REST API
-- Python
 - REST API / HTTP
 
 ## 🔍 Testing Performed

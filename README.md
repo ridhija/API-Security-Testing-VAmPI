@@ -46,6 +46,3 @@ This project was performed in a controlled local lab environment using the inten
 
 ## 👩‍💻 Author
 Ridhi Jain
-**Ridhi Jain**
-
-GitHub: https://github.com/ridhija
